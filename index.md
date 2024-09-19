@@ -1,4 +1,7 @@
-# Research Guide
+---
+title: Research Guide
+css: '/assets/css/custom-styles.css'
+---
 
 I'm listing here a series of guidelines for research that I've been using for years. It might be useful to take a look here before you do any of the following research activities:
 
