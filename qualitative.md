@@ -1,6 +1,4 @@
----
-title: Qualitative Research
----
+# Qualitative Research
 
 We conduct qualitative research because a problem or issue needs to be *explored*, when we need to study a group or population, identify variables that cannot be easily measured or hear silenced voices. Also, we conduct qualitative research when a complex, detailed understanding of an issue is needed. 
 

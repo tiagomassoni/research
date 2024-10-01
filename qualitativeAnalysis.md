@@ -1,6 +1,5 @@
----
-title: Qualitative Analysis
----
+
+# Qualitative Analysis
 
 Sources:
 

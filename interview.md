@@ -1,9 +1,7 @@
----
-title: Data Collection and Interviews
----
+# Data Collection and Interviews
 
 
-# Purposeful Sampling Strategy
+## Purposeful Sampling Strategy
 
 In this case, the inquirer selects individuals and sites for study because they can purposefully inform an understanding of the research problem and central phenomenon in the study. 
 
@@ -23,11 +21,11 @@ Types of sampling that might be informed in the study's methodology:
 
 * Convenience: aves time, money, and effort, but at the expense of information and credibility.
 
-# Forms of Data
+## Forms of Data
 
 There are four basic types of information: observations, interviews, documents and audiovisual materials. 
 
-# Interviewing
+## Interviewing
 
 Interviews are built around main questions, follow-up questions and probes that, together, elicit the data to answer the research question. *Main questions* begin a discussion about each separate part of your research questions. Some research questions are posed such that their main questions are obvious; for instance, if the research question is "how is the relationship between testers and front-end developers?", main questions could be about the sucesses and failures of each relationship aspect of these teams. If the research is based on a specific theory, the main questions concern the main hypotheses of the theory.
 
@@ -37,7 +35,7 @@ If the themes expressed deal with your research question, you follow up on them,
 
 *Probes* are questions, comments or gestures to help manage the flow of the conversation. They are short and standard, like "Go on..." or "Can you give me an example?". 
 
-## Conversational Guides
+### Conversational Guides
 
 One way to control the anxiety before the interview is to prepare a conversational guide (protocols, jottings,  question matrices/checklists, outlines). Writing down the main questions is critical; important follow-up questions can be prepared as well. Having a guide like that does not make it mandatory; depending on the path of the interview, many of its parts might be ignored; nonetheless many of the prepared questions are answered one way or another. It is *much more important to listen than to cover all questions of the guide*. If the interviewee answers a prepared question before it was asked, make sure this question is not asked again, which would be a sign of you not listening properly. 
 
@@ -47,7 +45,7 @@ In constrast, informal guides are possible. You can use *jottings*, which are ge
 
 Written questions are good, but can be intimidating for less experienced interviewers; they might look like they're reading a script, mechanically. On the contrary, you should be human, engaging in a conversation. Researchers may use a checklist of issues just to provide some order and structure, but allowing for a spontaneous conversation. 
 
-## Designing main questions and probes
+### Designing main questions and probes
 
 First, use language interviewees understand. Academic jargon is not appropriate; use ordinary conversational language, and supplement with specialized vocabulary when needed. Sometimes, you have to use the technical terms of the field so you sound knowledgeable enough to understand their answers, signaling some level of expertise. 
 
@@ -57,12 +55,12 @@ In general, try to word your questions so that they tap the knowledge and experi
 
 The most important thing here is deciding *what main questions to ask*. 
 
-## Designing follow-up questions
+### Designing follow-up questions
 
 
 
 
-# Bibliography
+## Bibliography
 
 Creswell
 
