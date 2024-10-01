@@ -1,7 +1,10 @@
----
-title: Ways to Improve your Writing
 
----
+# Ways to Improve your Writing
+
+<div style="text-align:center">
+<img src="images/writing.jpeg" alt="Provost" width="600"/>
+</div>
+
 ## Slanted Idea
 
 Do not try to write everything about a given subject. Instead of "Python", write about "History of Python", or "How to do data science with Python" or "Using Python in Arduino Projects".
