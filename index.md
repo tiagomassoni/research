@@ -4,7 +4,11 @@ I'm listing here a series of guidelines for research that I've been using for ye
 
 2. [Read a paper](reading.md)
 
-3. Write a paper or dissertation
+3. Doing Research
+
+    [Doing qualitative research](qualitative.md)
+
+4. Write a paper or dissertation
 
     [How to write the Methodology section](meth.md)
 
@@ -18,14 +22,17 @@ I'm listing here a series of guidelines for research that I've been using for ye
 
     [Ways to Improve](waysToImprove.md)
 
-4. [Present your research](presenting.md)
+5. [Present your research](presenting.md)
 
-5. [Write your dissertation/thesis](thesis.md)
+6. [Write your dissertation/thesis](thesis.md)
 
-6. [Search for a place to submit papers](submission.md)
+7. [Search for a place to submit papers](submission.md)
 
-7. [Prepare a replication package](replication.md)
-
-8. [Doing qualitative research](qualitative.md)
+8. [Prepare a replication package](replication.md)
 
 
+
+
+
+
+[def]: quali-an.md

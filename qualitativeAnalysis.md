@@ -23,6 +23,30 @@ Approach from the past (40s,50s)
 
 ![images/IMG_2610.jpg](images/IMG_2610.jpg)
 
+## Thematic Analysis
+
+The aim is to identify, analyze, and report themes within data. 
+Themes are patterns of meaning that capture something important about the data in relation to the research question, 
+and represent some level of patterned response or meaning within the data set.
+
+Researchers identify themes through a process of coding and organizing the data, 
+but the process is not as iterative or focused on theory development.
+Various approaches to thematic analysis exist (e.g., semantic, latent).
+
+As outcome, a rich description of the key themes present in the data, 
+often accompanied by illustrative quotes. 
+It may identify relationships between themes but doesn't necessarily produce a formal theory.
+
+## Content Analysis
+
+The focus is primarily quantitative. It aims to objectively and systematically quantify the content of communication, often focusing on manifest content (what is explicitly stated). It can analyze textual, visual, or auditory data.
+
+Involves developing a coding scheme or framework before data analysis begins. This framework defines specific categories or codes that are used to count the frequency of occurrences of words, phrases, images, or other units of meaning.
+
+The outcome is Numerical data representing the frequency and distribution of coded content. This allows for statistical analysis and comparisons between different groups or time periods. May also include some qualitative interpretation of the findings.
+
+Example: Analyzing news articles to determine the frequency of positive and negative portrayals of a particular political candidate. Counting the number of times specific words related to climate change appear in corporate sustainability reports.
+
 ## Grounded Theory
 
 Most used framework (origin: Glaser and Strauss 1967); hard to define today, there are several approaches. Sometimes GT is only used because the theory is strongly linked to data (when it is only an inductive approach). Often, researchers use one or two features.
