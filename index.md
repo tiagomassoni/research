@@ -8,6 +8,8 @@ I'm listing here a series of guidelines for research that I've been using for ye
 
     [Doing qualitative research](qualitative.md)
 
+    [Doing Focus Groups](focusGroups.md)
+
 4. Write a paper or dissertation
 
     [How to write the Methodology section](meth.md)
